@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Drogheda
+
+> Geotechnical engineering services in Drogheda, Ireland.
+
+## Services
+- [Anchors](https://drogheda.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://drogheda.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://drogheda.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://drogheda.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://drogheda.geotechnical-engineering.co/deep-excavations/)
+- [Excavation Monitoring](https://drogheda.geotechnical-engineering.co/excavation-monitoring/)
+- [Excavations](https://drogheda.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://drogheda.geotechnical-engineering.co/flexible-pavement/)
+- [Footings](https://drogheda.geotechnical-engineering.co/footings/)
+- [Foundations](https://drogheda.geotechnical-engineering.co/foundations/)
+- [Grain Size](https://drogheda.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://drogheda.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://drogheda.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://drogheda.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://drogheda.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://drogheda.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://drogheda.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://drogheda.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://drogheda.geotechnical-engineering.co/masw/)
+- [Mat Foundations](https://drogheda.geotechnical-engineering.co/mat-foundations/)
+- [Piles](https://drogheda.geotechnical-engineering.co/piles/)
+- [Proctor Tests](https://drogheda.geotechnical-engineering.co/proctor-tests/)
+- [Resistivity](https://drogheda.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://drogheda.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://drogheda.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://drogheda.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://drogheda.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://drogheda.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://drogheda.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://drogheda.geotechnical-engineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://drogheda.geotechnical-engineering.co/seismic-refraction/)
+- [Slope Stability](https://drogheda.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://drogheda.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://drogheda.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://drogheda.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://drogheda.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://drogheda.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://drogheda.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://drogheda.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://drogheda.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Drogheda, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
