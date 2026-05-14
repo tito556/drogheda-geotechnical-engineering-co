@@ -89,6 +89,42 @@ header.hero, .hero { position: relative !important; }
 .leaflet-control { z-index: 800 !important; }
 .leaflet-container { z-index: 1 !important; }
 </style>
+<style id="inline-link-style">
+p a[href^="/"]:not(.cta-btn):not(.hero-cta){color:var(--accent,#0F766E) !important;text-decoration:underline !important;text-decoration-color:rgba(29,78,216,.45);text-underline-offset:2px;font-weight:600}
+p a[href^="/"]:not(.cta-btn):not(.hero-cta):hover{text-decoration-color:currentColor;opacity:.85}
+</style>
+<style id="navbar-compact-fix">
+/* Compactar navbar para que el menú entre completo */
+.navbar{padding:.65rem 1rem !important}
+.navbar .nav{gap:.55rem !important}
+.nav-item{font-size:.74rem !important;letter-spacing:.01em !important}
+.nav-item.has-dd .nav-cat-link{padding:.4rem .25rem !important}
+.nav-item.has-dd .nav-arrow{font-size:.7rem !important;margin-left:.15rem !important}
+.cta-btn{padding:.45rem .8rem !important;font-size:.72rem !important;letter-spacing:.03em !important}
+.logo-box,.brand-name,.brand{font-size:.82rem !important}
+.logo-text .main{font-size:.95rem !important}
+.logo-text .sub{font-size:.72rem !important}
+/* Para layouts aberdeen/classic con clase distinta */
+header nav a,.menu a{font-size:.78rem !important}
+@media (max-width:1100px){
+  .nav-item{font-size:.7rem !important}
+  .navbar .nav{gap:.4rem !important}
+  .cta-btn{padding:.4rem .65rem !important;font-size:.68rem !important}
+}
+</style>
+<style id="layout-defensive">
+html,body{overflow-x:hidden;max-width:100vw}
+body>*{max-width:100vw}
+@media (min-width:901px){
+  aside{position:relative}
+  aside+main,aside~main,aside~div>main{margin-left:0}
+  .content-area{display:flex;gap:1rem}
+}
+@media (max-width:900px){
+  aside{width:100% !important;position:static !important;height:auto !important}
+  .navbar{flex-wrap:wrap}
+}
+</style>
 </head><body>
 
 <nav class="navbar">
@@ -110,7 +146,7 @@ header.hero, .hero { position: relative !important; }
 <section class="block" style="padding:2rem 1.5rem"><div style="max-width:1200px;margin:0 auto">
 <img src="/img/pilotes-1.webp" alt="Foundations in Drogheda" loading="lazy" decoding="async" style="width:100%;max-height:220px;object-fit:cover;display:block;border-radius:6px;margin:1.5rem 0">
 <p>Foundation engineering in Drogheda demands a thorough understanding of the local glacial till and alluvial deposits overlying Carboniferous limestone bedrock. The bearing capacity can vary significantly across the town, from the dense boulder clays on the northern slopes to softer, compressible silts near the River Boyne floodplain. A rigorous site investigation is essential to comply with Eurocode 7 and the Irish Building Regulations (Technical Guidance Document A). For sites with poor near-surface soils, [pile foundation design](piles) often provides the most reliable deep foundation solution, transferring structural loads to competent strata.</p>
-<p>This category addresses the full spectrum of structural support, from residential extensions on traditional strip footings to complex commercial developments requiring Improvement. Effective design must also integrate substructure waterproofing and gas protection, particularly in areas with made ground. For cohesive soils, assessing short and long-term settlement is critical, often necessitating advanced [slope stability analysis](slope-stability) for adjacent excavations. Ultimately, a robust foundation system ensures structural longevity by managing the specific geotechnical risks present in the Drogheda area.</p></div></section>
+<p>This category addresses the full spectrum of structural support, from residential extensions on traditional strip footings to complex commercial developments requiring Improvement. Effective design must also integrate substructure waterproofing and gas protection, particularly in areas with made ground. For cohesive soils, assessing short and long-term settlement is critical, often necessitating advanced [<a href="/slope-stability/">slope stability</a> analysis](slope-stability) for adjacent excavations. Ultimately, a robust foundation system ensures structural longevity by managing the specific geotechnical risks present in the Drogheda area.</p></div></section>
 <section class="block" style="padding:2rem 1.5rem"><div style="max-width:1200px;margin:0 auto"><h2 style="margin-bottom:1.5rem;font-weight:700">Available services</h2><div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem"><a href="../piles/" style="display:block;padding:1.2rem;border:1px solid #E5E7EB;border-radius:10px;text-decoration:none;color:inherit;background:#FFFFFF;transition:all .2s;box-shadow:0 1px 2px rgba(0,0,0,.04)" onmouseover="this.style.borderColor='#F43F5E';this.style.transform='translateY(-2px)';this.style.boxShadow='0 4px 14px rgba(0,0,0,.08)'" onmouseout="this.style.borderColor='#E5E7EB';this.style.transform='translateY(0)';this.style.boxShadow='0 1px 2px rgba(0,0,0,.04)'"><h3 style="margin:0 0 .4rem;font-size:1.1rem">Pile foundation design</h3><span style="font-size:.85rem;color:#666">→ Ver detalle</span></a></div></div></section>
 <section class="block mid-cta-5f14-5f14" style="padding:2rem 0">
       <div style="max-width:720px;margin:0 auto;background:linear-gradient(135deg,#EA580C15,#EA580C08);border-left:4px solid #EA580C;padding:1.6rem 1.8rem;border-radius:8px;text-align:center">
